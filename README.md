@@ -1,5 +1,8 @@
 # WorldFeedApp
+Mobile app version of [WorldFeed](https://github.com/1RV1NG-Y/WorldFeed) project made with react native
 
+## Screenshots
+![Alt text](/img/cap1.png?raw=true "Optional Title")
 
 ## installation
 
